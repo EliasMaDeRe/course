@@ -1,6 +1,6 @@
 import { Game, createBowlingGame } from "./bowlingGame";
 
-describe('Test Bowling Game OOP', () => {
+describe('Test Bowling Game Functional', () => {
 
   let game: Game
   beforeEach(() =>{
